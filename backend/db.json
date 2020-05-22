@@ -1,0 +1,23 @@
+{
+    "users": [{
+        "id": 1,
+        "name": "João Paulo Silva",
+        "email": "joaopaulo@gmail.com"
+    }, {
+        "id": 2,
+        "name": "Carlos Afonso de Mello",
+        "email": "carlosmello@hotmail.com"
+    }, {
+        "id": 3,
+        "name": "Ana Arros",
+        "email": "anaarros@gmail.com"
+    }, {
+        "id": 4,
+        "name": "Afonso Carlos Silva",
+        "email": "acarlossilva@gmail.com"
+    }, {
+        "id": 5,
+        "name": "Cristiane Amorin",
+        "email": "crisamorin@yahoo.com"
+    }]
+}
