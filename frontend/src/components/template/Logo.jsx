@@ -3,5 +3,5 @@ import './Logo.css'
 
 export default props =>
     <aside className="logo">
-        AEW WELLINTON CAMBOIM!!!UP!!!!!!!!!!!
+        Logo
     </aside>
