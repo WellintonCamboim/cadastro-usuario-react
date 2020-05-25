@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { Component } from 'react'
 import Main from '../template/Main'
 
 const headerProps = {
@@ -9,10 +9,10 @@ const headerProps = {
 
 export default class UserCrud extends Component {
     render() {
-        return () {
+        return (
             <Main {...headerProps}>
                 Cadastro de Usuário
             </Main>
-        }
+        )
     }
 }
