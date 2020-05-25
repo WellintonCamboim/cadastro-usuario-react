@@ -9,8 +9,8 @@
     --footer-height: 40px;
 
     --shadow:
-        0 2px 23px 0 rgba(0, 0, 0.1),
-        0 2px 49px 0 rgba(0, 0, 0.06);
+        0 1px 3px 0 rgb(107, 107, 107),
+        0 1px 9px 0 rgb(199, 198, 198);
 }
 
 * {
@@ -44,7 +44,7 @@ header.header {
 }
 
 aside.menu-area {
-    grid-area: content;
+    grid-area: menu;
 }
 
 footer.footer {
