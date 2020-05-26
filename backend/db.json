@@ -7,7 +7,7 @@
     },
     {
       "id": 2,
-      "name": "Carlos Afonso de Mello",
+      "name": "Carlos Afonso",
       "email": "carlosmello@hotmail.com"
     },
     {
@@ -19,16 +19,6 @@
       "id": 4,
       "name": "Afonso Carlos Silva",
       "email": "acarlossilva@gmail.com"
-    },
-    {
-      "id": 5,
-      "name": "Cristiane Amorin",
-      "email": "crisamorin@yahoo.com"
-    },
-    {
-      "name": "Pedro Afonso de Mello",
-      "email": "pedromello@gmail.com",
-      "id": 6
     }
   ]
 }
